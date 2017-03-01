@@ -23,3 +23,5 @@ This microservice comes with some rudimentary tests as a good starting point for
 ```shell
 > ./mvnw test
 ```
+
+
